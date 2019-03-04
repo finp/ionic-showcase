@@ -26,7 +26,7 @@
     "nodemon": "1.18.10",
     "pg": "7.8.1",
     "shortid": "2.2.14",
-    "unifiedpush-node-sender": "0.16.0"
+    "unifiedpush-node-sender": "0.16.1"
   }
   
 }
